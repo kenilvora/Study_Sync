@@ -1,0 +1,1 @@
+# Study-Sync FrontEnd Responsive Web-Page
